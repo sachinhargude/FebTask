@@ -1,0 +1,52 @@
+2022-05-30 12:06:45,293  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 12:06:45,377  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 12:06:45,427  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 12:06:45,593  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 12:06:45,944  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 12:06:46,860  INFO [main] SauceDemov1:41 - Browser Open
+2022-05-30 12:06:50,580  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 12:06:50,638  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 12:06:50,690  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 12:06:50,957  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 12:06:50,962  INFO [main] SauceDemov1:26 - Verify the Test Case
+2022-05-30 12:06:51,214  INFO [main] SauceDemov1:48 - Click on MenuButton
+2022-05-30 12:06:51,313  INFO [main] SauceDemov1:51 - Click on LogoutButton
+2022-05-30 12:06:51,431  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 12:06:52,362  INFO [main] SauceDemov1:41 - Browser Open
+2022-05-30 12:06:56,497  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 12:06:56,558  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 12:06:56,610  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 12:06:56,771  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 12:06:57,220  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 12:06:58,039  INFO [main] SauceDemov1:41 - Browser Open
+2022-05-30 12:07:02,592  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 12:07:02,647  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 12:07:02,698  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 12:07:02,860  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 12:07:03,429  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 14:46:14,364  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 14:46:14,453  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 14:46:14,508  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 14:46:14,681  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 14:46:15,017  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 14:46:15,992  INFO [main] SauceDemov1:41 - Browser Open
+2022-05-30 14:46:19,747  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 14:46:19,809  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 14:46:19,858  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 14:46:20,020  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 14:46:20,025  INFO [main] SauceDemov1:26 - Verify the Test Case
+2022-05-30 14:46:20,272  INFO [main] SauceDemov1:48 - Click on MenuButton
+2022-05-30 14:46:20,376  INFO [main] SauceDemov1:51 - Click on LogoutButton
+2022-05-30 14:46:20,481  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 14:46:21,517  INFO [main] SauceDemov1:41 - Browser Open
+2022-05-30 14:46:24,569  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 14:46:24,629  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 14:46:24,681  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 14:46:24,845  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 14:46:25,495  INFO [main] SauceDemov1:68 - End of Program
+2022-05-30 14:46:26,547  INFO [main] SauceDemov1:41 - Browser Open
+2022-05-30 14:46:29,649  INFO [main] SauceDemov1:47 - URL is Open
+2022-05-30 14:46:29,707  INFO [main] SauceDemov1:53 - Enter the Username
+2022-05-30 14:46:29,758  INFO [main] SauceDemov1:56 - Enter the Password
+2022-05-30 14:46:29,927  INFO [main] SauceDemov1:59 - Click on LoginButton
+2022-05-30 14:46:30,281  INFO [main] SauceDemov1:68 - End of Program
